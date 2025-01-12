@@ -1,1 +1,5 @@
-# Ecommerce-Web-Scrapping-and-Analysis-Using-Selenium
+# E-Commerce Web Scrapping and Data Analysis Using Selenium 
+
+## Business Problem 
+### Objective 
+### Stakeholder Needs
