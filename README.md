@@ -2,4 +2,6 @@
 
 ## Business Problem 
 ####  - Objective 
+To gain insights into the pricing and popularity trends of products on a specific e-commerce platform.
+
 ####  - Stakeholder Needs
