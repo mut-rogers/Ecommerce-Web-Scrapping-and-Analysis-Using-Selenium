@@ -11,12 +11,12 @@ To understand the competitive landscape, identify pricing strategies, and potent
 **Data Sources:** The primary data source is the specified e-commerce platform.
 
 **Data Collection Methods:**
- - <u>Web Scraping with Selenium</u>: Selenium will be used to navigate the website, interact with dynamic elements (if any), and extract the required data.
+ - Web Scraping with Selenium: Selenium will be used to navigate the website, interact with dynamic elements (if any), and extract the required data.
 
- - <u>This will likely involve:</u> Locating and extracting product URLs, Navigating to individual product pages, Extracting product details such as price, description, and ratings.
+ - This will likely involve: Locating and extracting product URLs, Navigating to individual product pages, Extracting product details such as price, description, and ratings.
 
 **Considerations:**
-- <u>Rate Limiting:</u> Implement appropriate rate limits to avoid overloading the website server.
+- Rate Limiting: Implement appropriate rate limits to avoid overloading the website server.
 
 - Website Changes: Be prepared to adapt the scraping logic if the website structure or content changes.
 
