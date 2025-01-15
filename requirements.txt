@@ -2,4 +2,5 @@ pandas
 selenium
 seaborn
 matplotlib 
-webdriver-manager
+webdriver-manager 
+beautifulsoup4
