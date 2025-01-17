@@ -1,5 +1,8 @@
 # E-Commerce Web Scrapping and Data Analysis Using Selenium 
 
+# Project Overview 
+This project involves web scraping and data analysis using Python Selenium to simulate a real-world e-commerce data analysis task. The goal is to extract dynamic website data, clean it, and perform exploratory analysis to identify key trends such as average product prices, top-rated items, and category insights.
+
 ## Business Problem 
 **Objective:** 
 To gain insights into the pricing and popularity trends of products on a specific e-commerce platform.
@@ -35,3 +38,12 @@ To understand the competitive landscape, identify pricing strategies, and potent
   - Create new features (e.g., price per unit, normalized ratings).
 
   - Data Validation: Check for inconsistencies, errors, and outliers in the extracted data.
+
+## Exploratory Data Analysis 
+**Analysis Objectives** 
+
+ - Understanding the Pricing Trends
+   
+   This involves;
+   
+    - Calculating and visualizing the average price across product categories. 
