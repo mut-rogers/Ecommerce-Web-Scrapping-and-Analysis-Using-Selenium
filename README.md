@@ -45,5 +45,20 @@ To understand the competitive landscape, identify pricing strategies, and potent
  - Understanding the Pricing Trends
    
    This involves;
-   
+
     - Calculating and visualizing the average price across product categories. 
+
+    - Identify categories or products with the highest and lowest prices.
+
+ - Identifying high-herforming products through product ratings/engagements and identify correlations between price and rating.
+
+ - Competitive Insights.
+
+    - Analyze the distribution of product prices within categories.
+
+    - Examine customer preferences using ratings and reviews data.
+
+## Key Deliverables 
+ - **Cleaned Dataset:** A structured CSV file containing product details, ready for analysis.
+
+ - **Visualizations:** Graphs and charts highlighting pricing trends and high-performing products.
